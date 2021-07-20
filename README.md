@@ -1,19 +1,5 @@
 # rection_game
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71601381/126316103-9daa1449-befe-4173-bac8-fd08606961b6.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
